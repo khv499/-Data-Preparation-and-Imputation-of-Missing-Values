@@ -4,7 +4,7 @@
 # BI2: In the future I will use Wikipedia in my teaching activity
 
 # Define your working directory
-setwd("C:/Users/Harshavardhan Koneru/Documents/Data Preparation and Imputation of Missing Values")
+setwd("C:/Users/admin/Documents/Data Preparation and Imputation of Missing Values")
 getwd()
 
 # Install these packages first if working on your computer
